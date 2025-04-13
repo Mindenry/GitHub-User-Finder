@@ -1755,7 +1755,7 @@ export default function App() {
                                       </div>
                                     </div>
                                     <div className="mt-4 text-sm opacity-70">
-                                      Powered by GitHub API • Not affiliated with GitHub, Inc.
+                                    Powered by GitHub API 
                                     </div>
                                   </div>
                                 </footer>
