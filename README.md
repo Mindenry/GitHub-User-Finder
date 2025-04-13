@@ -22,7 +22,7 @@ A modern web application that allows you to search and explore GitHub user profi
 
 ## Screenshot
 
-[![GitHub User Finder Screenshot](screen.png)](https://git-hub-user-finder-5j4hcxn0o-mindenrys-projects.vercel.app/)
+[![GitHub User Finder Screenshot](screen.png)](https://git-hub-user-finder-ecru.vercel.app/)
 
 ---
 
